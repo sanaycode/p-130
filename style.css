@@ -1,0 +1,17 @@
+.header{
+    margin-top: 0px;
+    width:100%;
+    font-size:20px;
+    font-weight: bold;
+    height:120px;
+}
+#user_note{
+    color:black;
+    font-size: 15px;
+}
+canvas{
+    border-color: white;
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: solid;
+}
